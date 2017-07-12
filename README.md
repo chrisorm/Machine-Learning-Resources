@@ -23,7 +23,7 @@ Curated list of resources
 * [UCL gatsby unit repository](http://www.gatsby.ucl.ac.uk/vbayes/vbpapers.html) - Large amount of foundational papers in Variational Bayes
 
 
-## Differentialable Inference
+## Differentiable Inference
 
 *[Toronto Differentiable Inference course ](http://www.cs.toronto.edu/~duvenaud/courses/csc2541/) - Lecture notes only, advanced course covering VAEs, GANs etc.
 
