@@ -23,6 +23,7 @@ Curated list of resources
 
 *[Toronto Differentiable Inference course ](http://www.cs.toronto.edu/~duvenaud/courses/csc2541/) - Lecture notes only, advanced course covering VAEs, GANs etc.
 
+
 ### Variational Autoencoders
 
 * [kvfrans VAE introduction](http://kvfrans.com/variational-autoencoders-explained/) - Basic overview of VAEs
@@ -35,9 +36,10 @@ Curated list of resources
 * [NIPS tutorial video by Goodfellow](https://channel9.msdn.com/Events/Neural-Information-Processing-Systems-Conference/Neural-Information-Processing-Systems-Conference-NIPS-2016/Generative-Adversarial-Networks)
 
 
-## Probabilistic Programming
+### Probabilistic Programming
 
 * [Statistical Rethinking in PyMC3 github](https://github.com/aloctavodia/Statistical-Rethinking-with-Python-and-PyMC3) - Bayesian statistics & modelling
+* [Bayesian Neural Network introduction](https://alpha-i.co/blog/MNIST-for-ML-beginners-The-Bayesian-Way.html) - Introduction to edward and bayesian neural networks
 
 ## General Machine Learning
 
