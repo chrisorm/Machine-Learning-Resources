@@ -13,6 +13,10 @@ Curated list of resources
 ### Tensorflow
 * [Tensorflow for deep learning research](https://web.stanford.edu/class/cs20si/) - Standford course on tensorflow. Lecture slides only.
 
+### Deep NLP
+
+* [explosion.ai Deep nlp pipeline](https://explosion.ai/blog/deep-learning-formula-nlp) - Good overview of sota deep nlp approach
+* [Stanford Deep NLP](http://web.stanford.edu/class/cs224n/) - Deep NLP course with lecture videos.
 
 ## Variational Inference
 
