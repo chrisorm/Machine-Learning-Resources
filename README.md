@@ -13,7 +13,7 @@ Curated list of resources
 *[AM207 Stochastic Methods for Data Analysis, Inference and Optimization](https://github.com/AM207/2016/tree/master/Lectures) - MCMC, HMM, HMC etc.
 
 ### Tensorflow
-* [Tensorflow for deep learning research](https://web.stanford.edu/class/cs20si/) - Standford course on tensorflow. Lecture slides only.
+*[Tensorflow for deep learning research](https://web.stanford.edu/class/cs20si/) - Standford course on tensorflow. Lecture slides only.
 
 ### Deep NLP
 
