@@ -10,7 +10,7 @@ Curated list of resources
 * [Autograd github](https://github.com/HIPS/autograd) - Autograd - efficiently compute derivates of python and numpy code
 * [Yandex Deep learning](https://github.com/yandexdataschool/YSDA_deeplearning17) - Yandex deep learning repository
 
-*[AM207 Stochastic Methods for Data Analysis, Inference and Optimization](https://github.com/AM207/2016/tree/master/Lectures) - MCMC, HMM, HMC etc.
+* [AM207 Stochastic Methods for Data Analysis, Inference and Optimization](https://github.com/AM207/2016/tree/master/Lectures) - MCMC, HMM, HMC etc.
 
 ### Tensorflow
 *[Tensorflow for deep learning research](https://web.stanford.edu/class/cs20si/) - Standford course on tensorflow. Lecture slides only.
