@@ -10,7 +10,7 @@ Curated list of resources
 * [Autograd github](https://github.com/HIPS/autograd) - Autograd - efficiently compute derivates of python and numpy code
 * [Yandex Deep learning](https://github.com/yandexdataschool/YSDA_deeplearning17) - Yandex deep learning repository
 
-* [AM207 Stochastic Methods for Data Analysis, Inference and Optimization](https://github.com/AM207/2016/tree/master/Lectures) - MCMC, HMM, HMC etc.
+
 
 ### Tensorflow
 *[Tensorflow for deep learning research](https://web.stanford.edu/class/cs20si/) - Standford course on tensorflow. Lecture slides only.
@@ -63,7 +63,9 @@ Curated list of resources
 * [Python to Numpy](http://www.labri.fr/perso/nrougier/from-python-to-numpy/) - Excellent book on numpy and efficient python. Worth a read even for experienced users
 * [Python Plotting for Exploratory Data Analysis](http://pythonplot.com/) - Python plotting for EDA
 
-
+## Time Series & Related
+* [AM207 Stochastic Methods for Data Analysis, Inference and Optimization](https://github.com/AM207/2016/tree/master/Lectures) - MCMC, HMM, HMC etc.
+* [Kalman filters repo](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) - Lots of smoothing and bayesian filtering code.
 
 ## Application focussed
 * [Machine Learning for Healthcare](https://mlhc17mit.github.io/) - MIT course 2017. Lecture notes only.
