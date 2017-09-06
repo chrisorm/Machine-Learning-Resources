@@ -69,3 +69,7 @@ Curated list of resources
 
 ## Application focussed
 * [Machine Learning for Healthcare](https://mlhc17mit.github.io/) - MIT course 2017. Lecture notes only.
+
+## Reinforcement Learning
+
+* [Overview of RL](https://arxiv.org/pdf/1701.07274v4.pdf)
