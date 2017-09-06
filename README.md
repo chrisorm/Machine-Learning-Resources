@@ -9,7 +9,7 @@ Curated list of resources
 * [A guide to convolution arithmetic for deep learning](https://arxiv.org/abs/1603.07285) - A good guide to various elements of convNets.
 * [Autograd github](https://github.com/HIPS/autograd) - Autograd - efficiently compute derivates of python and numpy code
 * [Yandex Deep learning](https://github.com/yandexdataschool/YSDA_deeplearning17) - Yandex deep learning repository
-
+* [Deep Learning Summer School](http://videolectures.net/deeplearning2017_montreal/)
 
 
 ### Tensorflow
